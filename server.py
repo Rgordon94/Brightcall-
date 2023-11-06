@@ -1,7 +1,6 @@
 import socket
 import cv2
 import numpy as np
-from enlighten_inference import EnlightenOnnxModel
 import concurrent.futures
 import socket
 
