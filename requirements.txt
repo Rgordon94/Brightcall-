@@ -1,5 +1,2 @@
-socket
 opencv-python 
 numpy
-enlighten_inference
-concurrent-futures
